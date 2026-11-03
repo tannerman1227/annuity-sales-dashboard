@@ -1,0 +1,6 @@
+# Pinned so `python -m src.data_gen` reproduces data/annuity_sales.csv.
+streamlit==1.66.1
+pandas==3.1.0
+numpy==2.5.4
+plotly==7.1.0
+pytest==9.2.0
